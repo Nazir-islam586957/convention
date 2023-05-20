@@ -1,0 +1,41 @@
+.img1 img{
+height: 450px;
+ 
+}
+i{
+    color: black;
+}
+
+
+.last{
+    /* height: 300px;
+    background-color:rgb(27, 27, 27); */
+
+}
+.last div img{
+    height: 200px;
+    /* align-items: center;
+    margin-left: 700px;
+    margin-top: 30px; */
+}
+
+/* .last-text p{
+  margin-left: 70px;
+  margin-top: 100px;  
+} */
+.card{
+    box-shadow: 2px 2px 5px  ;
+}
+
+.package{
+    width: 90%;
+    margin: auto;
+}
+
+.project .col .card{
+    height: 380px;
+    padding: 10px;
+}
+.project .col .card img{
+    height: 300px;
+}
